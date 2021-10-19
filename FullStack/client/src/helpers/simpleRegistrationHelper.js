@@ -1,0 +1,37 @@
+
+const getElemVal=(id)=>document.getElementById(id).value;
+
+ export default function  validateSimpleRegistration(idEmail, idPassword, idName) {
+    let error=''; 
+    var data={
+      email:getElemVal(idEmail),
+      password:getElemVal(idPassword),
+      name:getElemVal(idName),
+      biz:false
+     };
+      
+     if(!data.password || data.password.length < 6  )
+     {
+        error= `*Password must have 6 letters  *`;
+     }
+
+     if(data.email)
+     {
+         var reges = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        var res=  reges.test(data.email);
+            if (!res)
+            {
+                error+= 'Must enter valid email address  *';
+            }
+     }
+     else
+     {
+        error+= 'Must enter valid email address   *';
+     }
+     if(!data.name || data.name.length < 2 )
+     {
+        error+= 'Name must have at least 2 letters';
+     }
+
+     return error || data;
+}

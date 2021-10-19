@@ -1,0 +1,37 @@
+@media (min-width: 810px) and (max-width: 1080px) {
+    .Cbody {
+        font-size: 15px;
+        color: #000;
+        height: 350px;
+    }
+
+    .Ctitle {
+        color: #000;
+        font-size: 15px;
+    } 
+
+    .Ctext {
+        color: #000;
+        font-size: 15px;
+    }
+
+}
+
+@media (max-width: 809px) {
+    .Cbody {
+        font-size: 15;
+        color: #000;
+        height: 350px;
+    }
+
+    .Ctitle {
+        color: #000;
+        font-size: 15px;
+    }
+
+    .Ctext {
+        color: #000;
+        font-size: 15px;
+    }
+
+}

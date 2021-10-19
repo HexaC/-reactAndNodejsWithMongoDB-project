@@ -1,0 +1,25 @@
+.container {
+    width: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 70px;
+    right: 20px;
+    font-size: 60px;
+    color: #000;
+    cursor: pointer;
+    border-radius: 80px;
+    border: none;
+    background-color: #F2F2F2;
+    z-index: 9999999;
+}
+
+@media only screen and (max-width: 800px) {
+    .back-to-top {
+        visibility: hidden;
+    }
+
+}
