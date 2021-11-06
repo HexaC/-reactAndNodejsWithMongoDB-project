@@ -4,7 +4,7 @@
 [![React](https://badges.aleen42.com/src/react.svg)](https://reactjs.org/)
 
 ## Description
-A site made for you to sell companies you own built with React & NodeJS using MongoDB as the database.
+A responsive site made for you to sell companies you own built with React & NodeJS using MongoDB as the database.
 
 ## Table of Content
 - Demo
