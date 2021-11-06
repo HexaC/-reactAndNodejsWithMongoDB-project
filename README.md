@@ -4,8 +4,7 @@
 [![React](https://badges.aleen42.com/src/react.svg)](https://reactjs.org/)
 
 ## Description
-A site made for you to sell companies you own.
-Built with React & NodeJS with using MongoDB as the database.
+A site made for you to sell companies you own built with React & NodeJS using MongoDB as the database.
 
 ## Table of Content
 - Demo
@@ -14,21 +13,18 @@ Built with React & NodeJS with using MongoDB as the database.
 
 ## Demo
 
-#### Login Page
+#### Home Page
 ![Demo Doccou alpha](https://media.giphy.com/media/o1c7wnsMaJya7rFOnr/giphy.gif)
 
-#### Main Page
+#### About Page
 ![Demo Doccou alpha](https://media.giphy.com/media/D3TkMCZpkrFQf0LIrN/giphy.gif)
 ![Demo Doccou alpha](https://media.giphy.com/media/KXNEgE5sphfOgBoE4O/giphy.gif)
 
-#### Contacts Page
+#### Business Registration Page
 ![Demo Doccou alpha](https://media.giphy.com/media/JK6hJwg1H1suhChjXc/giphy.gif)
 
-#### Profile Page
+#### Login Page
 ![Demo Doccou alpha](https://media.giphy.com/media/HRz3BaTLOmBtqd2U6x/giphy.gif)
-
-#### 404 Page && Logout
-![Demo Doccou alpha](https://media.giphy.com/media/SdFoK7o7s9KCLvpJ89/giphy.gif)
 
 #### Full Video
 [![Watch the full video here](https://youtu.be/fOOjJmgF2aU)](https://media.giphy.com/media/o1c7wnsMaJya7rFOnr/giphy.gif)
