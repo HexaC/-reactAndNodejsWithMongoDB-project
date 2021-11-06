@@ -28,7 +28,7 @@ A site made for you to sell companies you own built with React & NodeJS using Mo
 ![Demo Doccou alpha](https://media.giphy.com/media/6ChrcxcVfepT8To56x/giphy.gif)
 
 #### Full Video
-[![Watch the full video here](https://youtu.be/kYyiUsur-u8)](https://media.giphy.com/media/o1c7wnsMaJya7rFOnr/giphy.gif)
+[![Watch the full video here](https://youtu.be/kYyiUsur-u8)](https://youtu.be/kYyiUsur-u8)
 
 ## Installation
 To run this project, install it locally using 2 npm terminal in your Visual Studio Code:
