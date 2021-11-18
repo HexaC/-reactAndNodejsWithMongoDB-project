@@ -4,7 +4,7 @@
 [![React](https://badges.aleen42.com/src/react.svg)](https://reactjs.org/)
 
 ## Description
-A responsive site made for you to sell companies you own built with React & NodeJS using MongoDB as the database.
+A website made for large sized companies to sell their daughter companies they own by publishing selling cards to - Cards, the company that will sell your daughter company.
 
 ## Table of Content
 - Demo
