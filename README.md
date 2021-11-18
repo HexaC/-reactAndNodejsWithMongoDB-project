@@ -7,8 +7,24 @@
 A website made for large sized companies to sell their daughter companies they own by publishing selling cards to - Cards, the company that will sell your daughter company.
 
 ## Table of Content
-- Demo
 - Installation
+- Demo
+
+## Installation
+To run this project, install it locally using 2 npm terminal in your Visual Studio Code:
+
+First terminal:
+```
+$ cd ../server
+$ npm install
+$ node app
+```
+Second terminal:
+```
+$ cd ../client
+$ npm install
+$ npm start
+```
 
 ## Demo
 
@@ -29,19 +45,3 @@ A website made for large sized companies to sell their daughter companies they o
 
 #### Full Video
 [![Watch the full video here](https://youtu.be/kYyiUsur-u8)](https://youtu.be/kYyiUsur-u8)
-
-## Installation
-To run this project, install it locally using 2 npm terminal in your Visual Studio Code:
-
-First terminal:
-```
-$ cd ../server
-$ npm install
-$ node app
-```
-Second terminal:
-```
-$ cd ../client
-$ npm install
-$ npm start
-```
