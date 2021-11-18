@@ -7,7 +7,6 @@
 A website made for large sized companies to sell their daughter companies they own by publishing selling cards to - Cards, the company that will sell your daughter company.
 
 ## Table of Content
-- Installation
 - [Installation](#Installation)
 - [Demo](#Demo)
 
