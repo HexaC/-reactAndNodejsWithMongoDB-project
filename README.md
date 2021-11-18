@@ -8,8 +8,9 @@ A website made for large sized companies to sell their daughter companies they o
 
 ## Table of Content
 - Installation
-- Demo
-[Installation](#Demo)
+- [Installation](#Installation)
+- [Demo](#Demo)
+
 
 ## Installation
 To run this project, install it locally using 2 npm terminal in your Visual Studio Code:
